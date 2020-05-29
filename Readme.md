@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Эйвазова](https://up.htmlacademy.ru/javascript/20/user/410699).
-* Наставник: `Неизвестно`.
+* Наставник: [Яна Казанина](https://htmlacademy.ru/profile/id1275245).
 
 ---
 
