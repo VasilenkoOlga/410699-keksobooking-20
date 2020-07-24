@@ -53,7 +53,6 @@ var createElements = function () {
       }
     });
   }
-  console.log(generatedPins);
 };
 
 createElements();
